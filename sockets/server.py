@@ -32,4 +32,5 @@ while True:
 # Закрываем соединение
 conn.close()
 print("Завершение работы...")
+s.close()
 
